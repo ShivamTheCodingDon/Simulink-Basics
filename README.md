@@ -7,5 +7,5 @@
 * Widely used in industries and academic settings.
 * Applied in research and development for prototyping.
 * Integrated into various engineering disciplines. 
-* Helps simulate and analyze systems before implementation. 
+* Helps simulate and analyze systems before implementation.  
  
